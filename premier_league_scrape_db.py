@@ -27,8 +27,7 @@ cursor=connection.cursor()
 command="""CREATE TABLE IF NOT EXISTS stats(Team LONGTEXT, Matches_played LONGTEXT, Wins LONGTEXT, Losses LONGTEXT, Goals LONGTEXT, Goals_Conceded LONGTEXT, Clean_sheets LONGTEXT, shot_accuracy LONGTEXT, pass_accuracy LONGTEXT, tackle_success LONGTEXT, error_leading_to_goals LONGTEXT, own_goals LONGTEXT) DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC"""
 cursor.execute(command) 
 
-#driver=webdriver.Chrome('C:/Users/mkolla1/Downloads/chromedriver')
-driver = webdriver.Chrome(executable_path='/home/ebcs/Desktop/EBCS-Darknet/chromedriver')
+driver=webdriver.Chrome('DRIVER_PATH_NAME_HERE')
 driver.get("https://www.premierleague.com/stats/top/clubs/wins")
 time.sleep(5)
 team_main_links=[]
