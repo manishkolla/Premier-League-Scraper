@@ -39,15 +39,14 @@ Here are some practical examples of how the scraped data could be used:
    - Journalists can use the data to write stories about the best-performing players or teams, or to analyze the biggest upsets of the season.
    - Media outlets could track trends, player form, and emerging stars, giving fans deeper insights into the Premier League.
 
-
-4. **Football Fans**:
+3. **Football Fans**:
    - Fans can create their own fantasy football teams based on player and team statistics, optimizing their choices for the best possible lineup.
    - Football fans might also use the data to predict match outcomes or track the performance of their favorite teams.
 
-5. **Data Scientists**:
+4. **Data Scientists**:
    - Data scientists can use the scraped data to develop more sophisticated models for predicting match results, player transfers, or even player performance ratings.
    - Machine learning algorithms can be trained using historical team statistics to forecast future results or identify key performance indicators (KPIs) that drive team success.
 
-6. **Sports Enthusiasts**:
+5. **Sports Enthusiasts**:
    - Enthusiasts can use the data to better understand the game and compare teams and players in depth.
    - Statistical analysis can provide more detailed insights for viewers, helping them appreciate the nuances of the Premier League.
