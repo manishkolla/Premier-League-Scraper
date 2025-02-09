@@ -39,9 +39,6 @@ Here are some practical examples of how the scraped data could be used:
    - Journalists can use the data to write stories about the best-performing players or teams, or to analyze the biggest upsets of the season.
    - Media outlets could track trends, player form, and emerging stars, giving fans deeper insights into the Premier League.
 
-3. **Bookmakers**:
-   - Bookmakers can set more informed odds for upcoming matches by analyzing team statistics, recent form, and past performance.
-   - Data can help them adjust betting lines or identify patterns that influence match outcomes.
 
 4. **Football Fans**:
    - Fans can create their own fantasy football teams based on player and team statistics, optimizing their choices for the best possible lineup.
